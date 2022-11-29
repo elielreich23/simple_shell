@@ -200,6 +200,6 @@ mandatory
 ## Bugs
 At this time, there are no known bugs.
 ## Authors
-Samuel Archibong | [GitHub](https://github.com/elielreich23) Mery Igwe | [GitHub](https://github.com/mjkamma) | [Twitter](https://twitter.com/PeaceJones8)
+Samuel Archibong | [GitHub](https://github.com/elielreich23) 
 ## License
 **simple_shell** is open source and free to download and use
